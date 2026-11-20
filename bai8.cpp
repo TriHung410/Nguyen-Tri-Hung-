@@ -12,8 +12,7 @@ void ucln(int a, int b){
 }
 
 int main() {
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
+
     int a, b;
     cout << "Nhap hai so nguyen a va b: ";
     cin >> a >> b;
