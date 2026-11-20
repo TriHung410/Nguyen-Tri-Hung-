@@ -21,8 +21,7 @@ void kieutamgiac(float a, float b, float c) {
 }
 
 int main() {
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
+
     float a, b, c;
     cout << "Nhap ba canh a, b, c: ";
     cin >> a >> b >> c;
