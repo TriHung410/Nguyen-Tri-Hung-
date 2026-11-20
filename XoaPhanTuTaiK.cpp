@@ -5,8 +5,7 @@ using namespace std;
 int a[101];
 
 int main() {
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
+
     int n;
     cout << "Nhap so phan tu cua mang: ";
     cin >> n;
